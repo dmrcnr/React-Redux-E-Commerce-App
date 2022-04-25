@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Link, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import { Navbar, NavbarBrand, Nav, NavbarToggler, NavItem } from "reactstrap";
 import CartSummary from "../cart/CartSummary";
 
